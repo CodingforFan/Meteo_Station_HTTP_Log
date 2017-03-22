@@ -2,8 +2,8 @@
 /******************************************************
 ------------------------Nastavení----------------------
 ******************************************************/
-    $dbhost = '';
-    $dbuser = '';
-    $dbpass = '';
-    $dbname = '';
+    $dbhost = 'sql2.webzdarma.cz';
+    $dbuser = 'dayofapocali7314';
+    $dbpass = 'kzlPx3E';
+    $dbname = 'dayofapocali7314';
 ?>

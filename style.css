@@ -1,0 +1,19 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.graf { 
+  background: blue; 
+  overflow: hidden;
+  padding: 10px;
+  width: fit-content;
+  margin-top: auto;
+}
+.posuv{
+  display:flex;
+}
+.sloupec {
+    float: left;
+    margin: auto 0 0;
+}
